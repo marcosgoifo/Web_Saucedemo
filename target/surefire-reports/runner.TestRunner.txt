@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 21.758 s <<< FAILURE! - in runner.TestRunner
+Login performance glitch user.(Challenge | Automation | UI Only)  Time elapsed: 7.417 s  <<< FAILURE!
+java.lang.AssertionError
+
+Login problem user.(Challenge | Automation | UI Only)  Time elapsed: 2.211 s  <<< FAILURE!
+java.lang.AssertionError: expected:<false> but was:<true>
+
