@@ -15,7 +15,7 @@ https://www.saucedemo.com/
  - **JUnit** - Herramienta para Prueba unitaria
  - **Java** - Lenguaje utilizado para construir la automatizacion
  - **Selenium Web Driver** - Herramienta utilizada para automatizar las pruebas realizadas en el navegador web
-### System Requirements
+### Requisitos del sistema
 - #### Google Chrome más reciente
 ### Comenzando
 
